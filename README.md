@@ -3,10 +3,10 @@
 ## A2 Comp SY 2020-2021
 
 ## Members -
-  2328 - Shruti Datar
-  2329 - Samruddhi Deode
-  2332 - Nisha Deshmukh
-  2336 - Yamini Dongaonkar
+    2328 - Shruti Datar
+    2329 - Samruddhi Deode
+    2332 - Nisha Deshmukh
+    2336 - Yamini Dongaonkar
 
 ## Problem Statement: 
     C++ Program to manage the roll out of Covid-19 vaccine where an eligible user can
