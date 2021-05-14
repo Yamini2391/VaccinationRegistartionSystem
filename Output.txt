@@ -1,0 +1,1339 @@
+  DSA Mini-Project : Vaccine Registration System
+  A2 Comp SY 2020-2021
+
+  Members -
+  2328 - Shruti Datar
+  2329 - Samruddhi Deode
+  2332 - Nisha Deshmukh
+  2336 - Yamini Dongaonkar
+
+OUTPUT :
+--------------------------------------------------------------------------------------------------------------
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :1
+
+	 Enter your name: Shruti_Datar
+
+	 Enter citizen ID: 1
+
+	 Enter Sex: (m/f)d
+
+		Invalid Input!
+	 Enter Sex: (m/f)f
+
+	 Enter your age: 23
+
+	 Do you have any comorbidities? (y/n)a
+
+		Invalid Input!
+	 Do you have any comorbidities? (y/n)n
+
+	 Set your password: hello
+
+	 Confirm password: he
+
+	 Password does not match! Set up your password again!
+	 Set your password: hello
+
+	 Confirm password: hello
+
+		Registered successfully, please log in to see your details.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :2
+
+	 Enter your Citizen ID :2
+
+		Sorry, please register first or
+
+		enter a valid Citizen ID.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :2
+
+	 Enter your Citizen ID :1
+
+	 Enter your password :bell
+
+		Incorrect password.
+
+		2 attempts remaining.
+
+	 Enter your password :hello
+
+	Logged in successfully.
+
+	 Citizen details :
+
+	CitizenID : 1
+
+	Name : Shruti_Datar
+
+	Age : 23
+
+	Sex : f
+
+	Slot Date : Not Alloted Yet.
+
+	
+----------------------
+	 USER MENU :
+
+	Enter 0 to logout.
+----------------------
+
+	 Enter choice :0
+
+		Signed out.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :2
+
+	 Enter your Citizen ID :1
+
+	 Enter your password :def
+
+		Incorrect password.
+
+		2 attempts remaining.
+
+	 Enter your password :def
+
+		Incorrect password.
+
+		1 attempts remaining.
+
+	 Enter your password :def
+
+		Incorrect password.
+
+		0 attempts remaining.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :1
+
+	 Enter your name: Shruti_Datar
+
+	 Enter citizen ID: 1
+
+		Citizen with this citizen id already registered ! 
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :3
+
+	Enter your password :vaccine
+
+	 Logged in successfully! 
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?10
+
+	1)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:Not Alloted Yet.
+Only 1 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 0
+
+	 Signed out!
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :1
+
+	 Enter your name: Daniel_Darkhound
+
+	 Enter citizen ID: 2
+
+	 Enter Sex: (m/f)m
+
+	 Enter your age: 45
+
+	 Do you have any comorbidities? (y/n)n
+
+	 Set your password: dark
+
+	 Confirm password: dark
+
+		Registered successfully, please log in to see your details.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :1
+
+	 Enter your name: Alice_Baker
+
+	 Enter citizen ID: 3
+
+	 Enter Sex: (m/f)f
+
+	 Enter your age: 34
+
+	 Do you have any comorbidities? (y/n)y
+
+	 Set your password: wer
+
+	 Confirm password: wer
+
+		Registered successfully, please log in to see your details.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :3
+
+	Enter your password :vaccine
+
+	 Logged in successfully! 
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?10
+
+	1)	 CitizenID: 3
+		 Name:Alice_Baker
+		 Slot Date:Not Alloted Yet.
+
+	2)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:Not Alloted Yet.
+
+	3)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:Not Alloted Yet.
+Only 3 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 1
+Enter day :13
+Enter month :5
+Enter year :2021
+
+		*** Allotment complete ***
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?10
+
+	1)	 CitizenID: 3
+		 Name:Alice_Baker
+		 Slot Date:14/5/2021
+
+	2)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:Not Alloted Yet.
+
+	3)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:Not Alloted Yet.
+Only 3 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 1
+Enter day :14
+Enter month :5
+Enter year :2021
+
+		*** Allotment complete ***
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?4
+
+	1)	 CitizenID: 3
+		 Name:Alice_Baker
+		 Slot Date:14/5/2021
+
+	2)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:15/5/2021
+
+	3)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:Not Alloted Yet.
+Only 3 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :2
+
+	1)	 CitizenID:3
+		 Name:Alice_Baker
+		 Slot Date:14/5/2021
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 0
+
+	 Signed out!
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :2
+
+	 Enter your Citizen ID :3
+
+	 Enter your password :wer
+
+	Logged in successfully.
+
+	 Citizen details :
+
+	CitizenID : 3
+
+	Name : Alice_Baker
+
+	Age : 34
+
+	Sex : f
+
+	Slot Date : 14/5/2021
+
+	
+----------------------
+	 USER MENU :
+
+	1. Confirm vaccination completion. 
+
+	Enter 0 to logout.
+----------------------
+
+	 Enter choice :1
+
+		Please provide authorisation for confirming the vaccination
+
+	Enter admin password :vaccine
+
+	Congratulations on getting vaccinated !
+
+	You've been signed out and your account has been removed.
+
+	Thank you for using the App
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :2
+
+	 Enter your Citizen ID :3
+
+		Sorry, please register first or
+
+		enter a valid Citizen ID.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :1
+
+	 Enter your name: Dinesh_Shah
+
+	 Enter citizen ID: 4
+
+	 Enter Sex: (m/f)m
+
+	 Enter your age: 19
+
+	 Do you have any comorbidities? (y/n)y
+
+	 Set your password: queen
+
+	 Confirm password: queen
+
+		Registered successfully, please log in to see your details.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :3
+
+	Enter your password :vaccine
+
+	 Logged in successfully! 
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 1
+Enter day :14
+Enter month :5
+Enter year :2021
+
+	Cannot run allotment multiple times on the same day.
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?10
+
+	1)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:15/5/2021
+
+	2)	 CitizenID: 4
+		 Name:Dinesh_Shah
+		 Slot Date:Not Alloted Yet.
+
+	3)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:Not Alloted Yet.
+Only 3 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 4
+
+	Enter eligibility age : 21
+
+		Changed successfully.
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?5
+
+	1)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:15/5/2021
+
+	2)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:Not Alloted Yet.
+Only 2 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 1
+Enter day :15
+Enter month :5
+Enter year :2021
+
+		*** Allotment complete ***
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?2
+
+	1)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:15/5/2021
+
+	2)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:16/5/2021
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :2
+
+	1)	 CitizenID:2
+		 Name:Daniel_Darkhound
+		 Slot Date:15/5/2021
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 0
+
+	 Signed out!
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :1
+
+	 Enter your name: Shubham_Deshmukh
+
+	 Enter citizen ID: 5
+
+	 Enter Sex: (m/f)m
+
+	 Enter your age: 34
+
+	 Do you have any comorbidities? (y/n)n
+
+	 Set your password: days
+
+	 Confirm password: days
+
+		Registered successfully, please log in to see your details.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :3
+
+	Enter your password :vaccine
+
+	 Logged in successfully! 
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?4
+
+	1)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:15/5/2021
+
+	2)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:16/5/2021
+
+	3)	 CitizenID: 5
+		 Name:Shubham_Deshmukh
+		 Slot Date:Not Alloted Yet.
+Only 3 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 1
+Enter day :16
+Enter month :5
+Enter year :2021
+
+		*** Allotment complete ***
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?4
+
+	1)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:16/5/2021
+
+	2)	 CitizenID: 5
+		 Name:Shubham_Deshmukh
+		 Slot Date:17/5/2021
+
+	3)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:Not Alloted Yet.
+Only 3 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 0
+
+	 Signed out!
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :1
+
+	 Enter your name: Rachel_Carter
+
+	 Enter citizen ID: 6
+
+	 Enter Sex: (m/f)f
+
+	 Enter your age: 45
+
+	 Do you have any comorbidities? (y/n)y
+
+	 Set your password: wasp
+
+	 Confirm password: wasp
+
+		Registered successfully, please log in to see your details.
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :3
+
+	Enter your password :vaccine
+
+	 Logged in successfully! 
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 3
+
+	Enter new number : 2
+Changed successfully.
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 1
+Enter day :17
+Enter month :5
+Enter year :2021
+
+		*** Allotment complete ***
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 2
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :1
+
+	How many entries are to be displayed ?10
+
+	1)	 CitizenID: 5
+		 Name:Shubham_Deshmukh
+		 Slot Date:17/5/2021
+
+	2)	 CitizenID: 6
+		 Name:Rachel_Carter
+		 Slot Date:18/5/2021
+
+	3)	 CitizenID: 2
+		 Name:Daniel_Darkhound
+		 Slot Date:18/5/2021
+
+	4)	 CitizenID: 1
+		 Name:Shruti_Datar
+		 Slot Date:Not Alloted Yet.
+Only 4 entries in queue-list
+
+	---------------------------
+	 Display menu
+
+	Enter 1 for displaying n entries
+
+	Enter 2 for displaying citizens in today's slot
+
+	Enter 0 to return to main Admin Menu.
+
+	Enter choice :0
+
+	Returning to main Admin menu ...
+
+	--------------------------
+	 ADMIN MENU 
+
+	1.Execute time allotment process
+
+	2.Display registrations.
+
+	3.Change number of available shots.
+
+	4.Change minimum age requirement for vaccination
+
+	Enter 0 to logout.
+
+	Enter your choice: 0
+
+	 Signed out!
+
+	----------------------
+
+	 MAIN MENU
+
+	1. Register for vaccine.
+
+	2. Login as user.
+
+	3. Login as Admin.
+
+	Enter 0 to exit.
+
+	----------------------
+
+	 Enter choice :0
+
+		Thank you for using App.
