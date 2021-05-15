@@ -3,35 +3,35 @@
 ## A2 Comp SY 2020-2021
 
 ## Members -
-    2328 - Shruti Datar
-    2329 - Samruddhi Deode
-    2332 - Nisha Deshmukh
-    2336 - Yamini Dongaonkar
+2328 - Shruti Datar
+2329 - Samruddhi Deode
+2332 - Nisha Deshmukh
+2336 - Yamini Dongaonkar
 
 ## Problem Statement: 
-    C++ Program to manage the roll out of Covid-19 vaccine where an eligible user can
-    register for his vaccine dose, be allotted his timeslot, take the vaccine, and leave after he/she is done.
+C++ Program to manage the roll out of Covid-19 vaccine where an eligible user can
+register for his vaccine dose, be allotted his timeslot, take the vaccine, and leave after he/she is done.
 
 
 ## Following are the functionalities that we have implemented:
-    1. Registration of a new User.
-    2. Assign priority to the user upon registration and enqueue him.
-    3. Run time slot allotment process.
-    4. Dequeue the User upon vaccination.
-    5. Login functionality for the User and Administrator.
-    6. Get self data (for user)
-    7. Get data of any citizen (for admin)
+1. Registration of a new User.
+2. Assign priority to the user upon registration and enqueue him.
+3. Run time slot allotment process.
+4. Dequeue the User upon vaccination.
+5. Login functionality for the User and Administrator.
+6. Get self data (for user)
+7. Get data of any citizen (for admin)
 
 
 ## The code has been divided into 3 major components :
-    1. The Citizen class which holds the data of the registered citizens and CitizenQueueList,
-       the encompassing data structure which maintains priority and smoothens the allotment process.
-    2. The Admin class provides the functionalities required by a system administrator,
-       including running the allotment process, and changing certain parameters which influence the
-       allotment, including age eligibility and vaccine availability. 
-       The class also has some limited measure of privilege on citizen data.
-    3. The main source file contains the user interface to the application and facilitates registration,
-       and citizen and admin login. 
+1. The Citizen class which holds the data of the registered citizens and CitizenQueueList,
+   the encompassing data structure which maintains priority and smoothens the allotment process.
+2. The Admin class provides the functionalities required by a system administrator,
+   including running the allotment process, and changing certain parameters which influence the
+   allotment, including age eligibility and vaccine availability. 
+   The class also has some limited measure of privilege on citizen data.
+3. The main source file contains the user interface to the application and facilitates registration,
+   and citizen and admin login. 
 
 
 ## Some of the important functions of our code are as follows:
